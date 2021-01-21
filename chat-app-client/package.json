@@ -14,6 +14,6 @@
     "body-parser": "^1.18.2",
     "express": "^4.15.5",
     "mongoose": "^5.9.23",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
